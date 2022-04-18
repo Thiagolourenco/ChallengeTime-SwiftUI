@@ -1,0 +1,28 @@
+{
+  "source": "/Users/thiagolourenco/Documents/Develop/Mobile/IOS/ChallengeTime/ChallengeTime/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Quadrado"
+      },
+      {
+        "comment": "",
+        "key": "Circulo"
+      },
+      {
+        "comment": "",
+        "key": "Elipse"
+      },
+      {
+        "comment": "",
+        "key": "Capsula"
+      },
+      {
+        "comment": "",
+        "key": "Borda"
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
+options: "2c895cf7258331bd78fcb26112e3e3b47c59692778e8fa36b0244e3429dcf56d"
+build_start_time: [1650304927, 44794082]
+build_end_time: [1650304928, 703854084]
+inputs:
+  "/Users/thiagolourenco/Documents/Develop/Mobile/IOS/ChallengeTime/ChallengeTime/ChallengeTimeApp.swift": [1650304586, 245161294]
+  "/Users/thiagolourenco/Documents/Develop/Mobile/IOS/ChallengeTime/ChallengeTime/ContentView.swift": [1650304881, 276599645]

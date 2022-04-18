@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+ChallengeTime in ChallengeTime, no dependencies
+ChallengeTimeUITests in ChallengeTime, depends on:
+ChallengeTime in ChallengeTime (explicit)
+ChallengeTimeTests in ChallengeTime, depends on:
+ChallengeTime in ChallengeTime (explicit)

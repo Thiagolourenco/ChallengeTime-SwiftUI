@@ -1,0 +1,72 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "62b1b620c3e150c1daaf3dbef06cb01d8358defa31af98c5c2e60d9802bafc29"
+    },
+    {
+      "guid" : "62b1b620c3e150c1daaf3dbef06cb01d7be722b8124eb02246a136da48c67ee9"
+    },
+    {
+      "guid" : "62b1b620c3e150c1daaf3dbef06cb01d65a06b30b0be9fc5e8384fc33eefd24d"
+    }
+  ],
+  "containerPath" : "/Users/thiagolourenco/Documents/Develop/Mobile/IOS/ChallengeTime/ChallengeTime.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos15.0",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "x86_64",
+        "arm64e",
+        "arm64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/thiagolourenco/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/thiagolourenco/Library/Developer/Xcode/DerivedData/ChallengeTime-frtbpqcqwivplrcrmmrrmnhurquz/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/thiagolourenco/Library/Developer/Xcode/DerivedData/ChallengeTime-frtbpqcqwivplrcrmmrrmnhurquz/Index/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "MacFamily20,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.0",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "41C37EDA-32BB-5354-941E-22631E275D29",
+          "TARGET_DEVICE_MODEL" : "MacBookAir10,1",
+          "TARGET_DEVICE_OS_VERSION" : "12.0.1",
+          "TARGET_DEVICE_PLATFORM_NAME" : "macosx"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
